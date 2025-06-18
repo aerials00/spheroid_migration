@@ -1,5 +1,6 @@
 # spheroid_migration
-Image Processing code related to the manuscript: https://www.biorxiv.org/content/10.1101/2024.05.08.593120.abstract
+Image Processing code related to the manuscript: https://www.cell.com/iscience/fulltext/S2589-0042(24)02649-X
+Cite: van der Net, Anouk et al. iScience, Volume 27, Issue 12, 111424
 
 These MATLAB codes are used to plot data in Fig.2, Fig.3 Fig.S7, Fig.S8, Fig.S9, Fig.S19, Fig.S20, Fig.S21 and Fig.S22 in the manuscript. 
 
